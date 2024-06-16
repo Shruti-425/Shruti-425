@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Shruti
+- 😊 I like doing web devleopment
+- 🌱 I’m currently learning coding
