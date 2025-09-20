@@ -3,4 +3,10 @@
 - 🌱 I’m currently learning coding
 ## 🏆 Holopin Badges
 
-[![@shruti425's Holopin board](https://holopin.me/shruti425)](https://holopin.io/@shruti425)
+## 🏆 Holopin Badges
+
+<p align="center">
+  <a href="https://holopin.io/@shruti425">
+    <img src="https://holopin.me/shruti425" alt="@shruti425's Holopin board" />
+  </a>
+</p>
