@@ -4,7 +4,7 @@
 ---
 
 ### 🙋‍♀️ About Me
-- 😊 I love **building web applications** and experimenting with new technologies  
+- 😊 I love **building web applications**  
 - 🌱 I’m currently **learning coding, cloud computing, ML, and full-stack development**  
 - ⚡ Fun fact: I enjoy solving problems and turning ideas into reality  
 
@@ -23,6 +23,11 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
 ---
@@ -32,17 +37,6 @@
   <a href="https://holopin.io/@shruti425">
     <img src="https://holopin.me/shruti425" alt="@shruti425's Holopin board" />
   </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shruti-425&show_icons=true&theme=tokyonight" alt="Shruti's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shruti-425&theme=tokyonight" alt="Shruti's GitHub Streak"/>
 </p>
 
 ---
