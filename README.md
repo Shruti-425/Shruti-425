@@ -52,19 +52,6 @@
 </p>
 
 
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shruti-425&show_icons=true&theme=tokyonight" alt="Shruti's GitHub Stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shruti-425&layout=compact&theme=tokyonight" alt="Top Languages" height="180em"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shruti-425&theme=algolia&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-</p>
-
 ---
 
 ### 🌐 Connect With Me
