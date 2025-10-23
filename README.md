@@ -32,11 +32,37 @@
 
 ---
 
-### 🏆 Holopin Badges
+### 🏆 Holopin & Achievement Badges
 <p align="center">
+  <!-- Holopin -->
   <a href="https://holopin.io/@shruti425">
     <img src="https://holopin.me/shruti425" alt="@shruti425's Holopin board" />
   </a>
+</p>
+
+<p align="center">
+  <!-- Hacktoberfest -->
+  <img src="https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?style=for-the-badge&logo=hacktoberfest&logoColor=white"/>
+  <!-- Open Source -->
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
+  <!-- GitHub -->
+  <img src="https://img.shields.io/badge/GitHub%20Achievements-✨-yellow?style=for-the-badge&logo=github&logoColor=white"/>
+  <!-- LeetCode -->
+  <img src="https://img.shields.io/badge/LeetCode-Active%20Learner-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</p>
+
+
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shruti-425&show_icons=true&theme=tokyonight" alt="Shruti's GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shruti-425&layout=compact&theme=tokyonight" alt="Top Languages" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shruti-425&theme=algolia&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -48,3 +74,4 @@
   <a href="https://www.linkedin.com/in/shruti-singh-68479825b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://discordapp.com/users/1147165883949666385"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
+
