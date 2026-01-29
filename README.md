@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shruti</h1>
-<h3 align="center">💻 Web Developer | ☁️ Cloud Enthusiast | 🤖 ML Explorer | 🌐 Full-Stack Learner</h3>
+<h3 align="center">  Cloud Enthusiast |  ML Explorer |  Full-Stack Learner</h3>
 
 ---
 
