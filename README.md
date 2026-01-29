@@ -4,13 +4,13 @@
 ---
 
 ### 🙋‍♀️ About Me
-- 😊 I love **building web applications**  
-- 🌱 I’m currently **learning coding, cloud computing, ML, and full-stack development**  
-- ⚡ Fun fact: I enjoy solving problems and turning ideas into reality  
+-  I love **building web applications**  
+-  I’m currently **learning coding, cloud computing, ML, and full-stack development**  
+-  Fun fact: I enjoy solving problems and turning ideas into reality  
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 <p align="center">
   <!-- Web Development -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
