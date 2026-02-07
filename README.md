@@ -32,14 +32,6 @@
 
 ---
 
-### 🏆 Holopin & Achievement Badges
-<p align="center">
-  <!-- Holopin -->
-  <a href="https://holopin.io/@shruti425">
-    <img src="https://holopin.me/shruti425" alt="@shruti425's Holopin board" />
-  </a>
-</p>
-
 <p align="center">
   <!-- Hacktoberfest -->
   <img src="https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?style=for-the-badge&logo=hacktoberfest&logoColor=white"/>
