@@ -3,12 +3,10 @@
 
 ---
 
-### 👩‍💻 Professional Summary
-- Strong foundation in **programming, data structures, and object-oriented design**
-- Proficient in **full-stack web development** using modern frontend and backend technologies
-- Hands-on knowledge of **cloud computing and DevOps fundamentals**, including AWS services and containerization
-- Familiar with **machine learning and computer vision concepts**, including deep learning workflows and evaluation metrics
-- Actively engaged in **competitive programming** and continuous technical skill development
+###  About Me
+- Experienced in **Full-Stack Web Development** using modern frontend and backend technologies
+- Worked with **Cloud Computing and DevOps practices**, including AWS services and containerization
+- Experienced in **Machine Learning and Computer Vision**, including deep learning workflows and model evaluation
 
 ---
 
@@ -39,7 +37,7 @@
 
 ---
 
-### 🌐 Professional Profiles
+### 
 <p align="center">
   <a href="https://leetcode.com/u/Shruti_12-34/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
   <a href="https://github.com/Shruti-425"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
