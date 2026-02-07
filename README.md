@@ -32,19 +32,6 @@
 
 ---
 
-<p align="center">
-  <!-- Hacktoberfest -->
-  <img src="https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?style=for-the-badge&logo=hacktoberfest&logoColor=white"/>
-  <!-- Open Source -->
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
-  <!-- GitHub -->
-  <img src="https://img.shields.io/badge/GitHub%20Achievements-✨-yellow?style=for-the-badge&logo=github&logoColor=white"/>
-  <!-- LeetCode -->
-  <img src="https://img.shields.io/badge/LeetCode-Active%20Learner-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</p>
-
----
-
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://leetcode.com/u/Shruti_12-34/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
