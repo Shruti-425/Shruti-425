@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shruti</h1>
+<h1 align="center">Hi , I'm Shruti</h1>
 <h3 align="center">Cloud Computing | Machine Learning | Full-Stack Development</h3>
 
 ---
